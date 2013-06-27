@@ -1,0 +1,1 @@
+Hosts connected to ale: ["ale", "lilac"] | Hosts received connections from garak: ["garak", "lilac"] | Host with most connections: ale
